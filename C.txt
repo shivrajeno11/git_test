@@ -1,1 +1,2 @@
-C.txt Created. Editing from branch1.
+C.txt Created. Editing from branch1 and branch2.
+
